@@ -1,4 +1,4 @@
-### PowerPoint presentation on "Customer Segmentation" using SQl, BigQuery.
+### PowerPoint presentation on "Customer Segmentation" using SQL, BigQuery.
 
 A 5-minute PowerPoint presentation on the topic:
 
